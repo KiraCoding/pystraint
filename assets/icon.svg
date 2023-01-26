@@ -1,0 +1,77 @@
+<svg width="100" height="100">
+  <g>
+    <path d="M 57 52 L 72 64 L 66 44 Z" style="fill: rgb(255,209,190);"></path>
+    <path d="M 72 64 L 84 45 L 66 44 Z" style="fill: rgb(254,193,167);"></path>
+    <path d="M 72 64 L 83 72 L 84 45 Z" style="fill: rgb(234,164,136);"></path>
+    <path d="M 57 52 L 45 64 L 72 64 Z" style="fill: rgb(255,210,191);"></path>
+    <path d="M 72 64 L 64 91 L 83 72 Z" style="fill: rgb(239,136,91);"></path>
+    <path d="M 84 45 L 74 23 L 66 44 Z" style="fill: rgb(238,178,153);"></path>
+    <path d="M 66 44 L 44 31 L 57 52 Z" style="fill: rgb(245,231,225);"></path>
+    <path d="M 57 52 L 30 52 L 45 64 Z" style="fill: rgb(248,232,226);"></path>
+    <path d="M 74 23 L 44 31 L 66 44 Z" style="fill: rgb(234,205,193);"></path>
+    <path d="M 100 51.54545454545455 L 100 45.473684210526315 L 87 27 L 84 45 Z" style="fill: rgb(184,168,169);"></path>
+    <path d="M 84 45 L 87 27 L 74 23 Z" style="fill: rgb(208,165,150);"></path>
+    <path d="M 45 64 L 64 91 L 72 64 Z" style="fill: rgb(250,172,139);"></path>
+    <path d="M 44 31 L 30 52 L 57 52 Z" style="fill: rgb(240,240,240);"></path>
+    <path d="M 45 64 L 56 92 L 64 91 Z" style="fill: rgb(227,174,155);"></path>
+    <path d="M 100 71.22727272727273 L 100 58.69565217391305 L 83 72 Z" style="fill: rgb(174,136,131);"></path>
+    <path d="M 83 72 L 100 58.69565217391305 L 100 51.54545454545455 L 84 45 Z" style="fill: rgb(197,162,154);"></path>
+    <path d="M 22 89 L 56 92 L 45 64 Z" style="fill: rgb(220,176,161);"></path>
+    <path d="M 87 27 L 74 15 L 74 23 Z" style="fill: rgb(200,150,131);"></path>
+    <path d="M 74 23 L 56 11 L 44 31 Z" style="fill: rgb(213,193,186);"></path>
+    <path d="M 30 52 L 28 64 L 45 64 Z" style="fill: rgb(236,210,200);"></path>
+    <path d="M 94 86 L 100 77.81818181818181 L 100 71.22727272727273 L 83 72 Z" style="fill: rgb(179,116,99);"></path>
+    <path d="M 64 91 L 94 86 L 83 72 Z" style="fill: rgb(200,121,94);"></path>
+    <path d="M 74 15 L 56 11 L 74 23 Z" style="fill: rgb(195,153,138);"></path>
+    <path d="M 44 31 L 26 23 L 30 52 Z" style="fill: rgb(214,215,215);"></path>
+    <path d="M 56 92 L 64.66666666666667 100 L 67.46153846153847 100 L 64 91 Z" style="fill: rgb(182,144,138);"></path>
+    <path d="M 64 91 L 67.46153846153847 100 L 74.55555555555556 100 L 94 86 Z" style="fill: rgb(182,117,99);"></path>
+    <path d="M 32 12 L 26 23 L 44 31 Z" style="fill: rgb(193,194,195);"></path>
+    <path d="M 30 52 L 14 53 L 28 64 Z" style="fill: rgb(220,204,198);"></path>
+    <path d="M 26 23 L 14 53 L 30 52 Z" style="fill: rgb(208,209,209);"></path>
+    <path d="M 22 89 L 38.5 100 L 49.84615384615385 100 L 56 92 Z" style="fill: rgb(172,164,170);"></path>
+    <path d="M 22 89 L 45 64 L 28 64 Z" style="fill: rgb(231,177,154);"></path>
+    <path d="M 64.66666666666667 100 L 56 92 L 49.84615384615385 100 Z" style="fill: rgb(165,154,160);"></path>
+    <path d="M 56 11 L 32 12 L 44 31 Z" style="fill: rgb(192,193,196);"></path>
+    <path d="M 90.76923076923077 100 L 100 100 L 100 100 L 100 87.05882352941177 L 94 86 Z"
+      style="fill: rgb(105,98,113);"></path>
+    <path d="M 100 77.81818181818181 L 94 86 L 100 87.05882352941177 Z" style="fill: rgb(143,107,107);"></path>
+    <path d="M 100 45.473684210526315 L 100 25.555555555555557 L 87 27 Z" style="fill: rgb(146,153,166);"></path>
+    <path d="M 87 27 L 94 4 L 74 15 Z" style="fill: rgb(158,125,120);"></path>
+    <path d="M 7 73 L 22 89 L 28 64 Z" style="fill: rgb(201,144,123);"></path>
+    <path d="M 100 18.875 L 100 6.823529411764706 L 94 4 L 87 27 Z" style="fill: rgb(112,112,125);"></path>
+    <path d="M 74 15 L 72.8 0 L 64.38095238095238 0 L 56 11 Z" style="fill: rgb(161,121,113);"></path>
+    <path d="M 56 11 L 45.733333333333334 0 L 39.5 0 L 32 12 Z" style="fill: rgb(155,156,164);"></path>
+    <path d="M 100 25.555555555555557 L 100 18.875 L 87 27 Z" style="fill: rgb(122,129,143);"></path>
+    <path d="M 74.55555555555556 100 L 90.76923076923077 100 L 94 86 Z" style="fill: rgb(137,106,108);"></path>
+    <path d="M 14 53 L 7 73 L 28 64 Z" style="fill: rgb(196,164,154);"></path>
+    <path d="M 64.38095238095238 0 L 45.733333333333334 0 L 56 11 Z" style="fill: rgb(144,130,134);"></path>
+    <path d="M 93.36842105263158 0 L 87.71428571428571 0 L 94 4 Z" style="fill: rgb(110,81,83);"></path>
+    <path d="M 94 4 L 87.71428571428571 0 L 72.8 0 L 74 15 Z" style="fill: rgb(136,94,87);"></path>
+    <path d="M 38.5 100 L 22 89 L 27 100 Z" style="fill: rgb(144,151,164);"></path>
+    <path d="M 13.291666666666666 100 L 27 100 L 22 89 Z" style="fill: rgb(116,123,138);"></path>
+    <path d="M 26 23 L 6 28 L 14 53 Z" style="fill: rgb(172,174,178);"></path>
+    <path d="M 14 53 L 0 59.666666666666664 L 0 68 L 7 73 Z" style="fill: rgb(160,129,125);"></path>
+    <path d="M 9 6 L 6 28 L 26 23 Z" style="fill: rgb(137,139,146);"></path>
+    <path d="M 9 6 L 26 23 L 32 12 Z" style="fill: rgb(147,149,155);"></path>
+    <path d="M 100 6.8235294117647065 L 100 0.18181818181818166 L 94 4 Z" style="fill: rgb(74,82,101);"></path>
+    <path d="M 39.5 0 L 30.58823529411765 0 L 32 12 Z" style="fill: rgb(128,130,140);"></path>
+    <path d="M 100 0.18181818181818166 L 100 0 L 93.36842105263158 0 L 94 4 Z" style="fill: rgb(74,73,89);"></path>
+    <path d="M 0 78.33333333333333 L 0 91.33333333333333 L 4 92 L 7 73 Z" style="fill: rgb(113,82,83);"></path>
+    <path d="M 7 73 L 4 92 L 22 89 Z" style="fill: rgb(146,113,109);"></path>
+    <path d="M 100 100 L 100 100 L 100 100 Z" style="fill: rgb(79,93,117);"></path>
+    <path d="M 0 49.23076923076923 L 0 59.666666666666664 L 14 53 Z" style="fill: rgb(144,136,142);"></path>
+    <path d="M 30.58823529411765 0 L 20.454545454545453 0 L 9 6 L 32 12 Z" style="fill: rgb(123,125,134);"></path>
+    <path d="M 6 28 L 0 34 L 0 49.23076923076923 L 14 53 Z" style="fill: rgb(142,144,153);"></path>
+    <path d="M 0 28.31578947368421 L 0 34 L 6 28 Z" style="fill: rgb(125,127,137);"></path>
+    <path d="M 20.454545454545453 0 L 8 0 L 9 6 Z" style="fill: rgb(86,88,101);"></path>
+    <path d="M 9 6 L 0 11.0625 L 0 22 L 6 28 Z" style="fill: rgb(97,99,111);"></path>
+    <path d="M 1.7999999999999998 0 L 0 0 L 0 11.0625 L 9 6 Z" style="fill: rgb(56,59,75);"></path>
+    <path d="M 0 22 L 0 28.31578947368421 L 6 28 Z" style="fill: rgb(111,114,124);"></path>
+    <path d="M 0 95.61904761904762 L 0 100 L 3.619047619047619 100 L 4 92 Z" style="fill: rgb(62,70,91);"></path>
+    <path d="M 4 92 L 3.619047619047619 100 L 13.291666666666666 100 L 22 89 Z" style="fill: rgb(96,98,113);"></path>
+    <path d="M 0 78.33333333333333 L 7 73 L 0 68 Z" style="fill: rgb(141,89,77);"></path>
+    <path d="M 0 91.33333333333333 L 0 95.61904761904762 L 4 92 Z" style="fill: rgb(72,72,90);"></path>
+    <path d="M 8 0 L 1.8 0 L 9 6 Z" style="fill: rgb(50,54,71);"></path>
+  </g>
+</svg>
